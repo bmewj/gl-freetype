@@ -3,7 +3,7 @@ OpenGL FreeType2 test
 
 Test application for rendering text with FreeType2 to an OpenGL texture.
 
-![Screenshot](https://raw.githubusercontent.com/bartjoyce/gl-freetype/master/assets/screenshot.jpg)
+<img src="https://raw.githubusercontent.com/bartjoyce/gl-freetype/master/assets/screenshot.jpg" width="400" />
 
 ## Structure
 
